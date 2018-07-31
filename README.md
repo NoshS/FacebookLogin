@@ -1,2 +1,2 @@
 # FacebookLogin
-Automatically login to Facebook.
+Automatically login to Facebook. Simple program to learn Selenium Basics. 
